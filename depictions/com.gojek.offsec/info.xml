@@ -1,17 +1,17 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
+	<id>com.gojek.offsec</id>
 	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<version>0.0.1-10</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>15.2</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>mobilesubstrate, preferenceloader</dependencies>
 	<descriptionlist>
 		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
