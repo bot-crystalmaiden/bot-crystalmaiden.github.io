@@ -12,9 +12,8 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
+Package: com.gojek.offsec
 Version: 0.0.1-10
-
 Section: Tweaks
 Maintainer: hackerman <bot.crystalmaiden@gmail.com>
 Depends: mobilesubstrate, preferenceloader
@@ -26,7 +25,6 @@ Description: Nothing...
 Name: Offsec
 Author: hackerman
 Depiction: https://bot-crystalmaiden.github.io/depictions/?p=com.gojek.offsec
-
 
 Package: ellekit
 Architecture: iphoneos-arm
