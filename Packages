@@ -10,3 +10,16 @@ MD5sum: 72e891738013ca82f261c7fc95e30c55
 Description: Nothing...
 Name: Offsec
 Author: hackerman
+
+Package: com.if-she.cydia.vcam
+Version: 0.0.2-6+debug
+Section: Tweaks
+Maintainer: hackerman <bot.crystalmaiden@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Filename: debs/com.if-she.cydia.vcam_0.0.2-6+debug_iphoneos-arm.deb
+Size: 28254
+MD5sum: af38411961d5907c4d4aa30adddaca42
+Description: Nothing...
+Name: vcam
+Author: hackerman
