@@ -3,31 +3,10 @@ Version: 0.0.1-10
 Section: Tweaks
 Maintainer: hackerman <bot.crystalmaiden@gmail.com>
 Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm, iphoneos-arm64
+Architecture: iphoneos-arm64
 Filename: debs/com.gojek.offsec_0.0.1-10_iphoneos-arm64.deb
 Size: 3114
 MD5sum: 2cf8cdf6900709ca69c1ae7b56859573
 Description: Nothing...
 Name: Offsec
 Author: hackerman
-
-Package: ellekit
-Architecture: iphoneos-arm
-Version: 0.3-1
-Priority: optional
-Section: Tweak Injection
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
-Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
-Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
-Filename: pool/ellekit_0.3-1_iphoneos-arm.deb
-Size: 464096
-MD5sum: 7cf1140c5e5fb56fa179a747aa8b9eb2
-SHA1: 5776a565a25967141a00f259034984e82248c597
-SHA256: b09022515fff7463d3b74f983a49847bf57478b2d5771323f19d12652c9cd661
-SHA512: d0845cf609d7c629a5c9d35352b28ea5702adfaa7daaf3e1cb7ea6a60f394586cf3175da07aa43b052956b90b8c5d6777d52508b2414e44497d84101c7743592
-Description: ElleKit tweak injection libraries and loader
- ElleKit tweak injection libraries and loader. Currently in beta.
-Name: ElleKit (Beta)
-Author: Evelyn
-Icon: https://ellekit.space/logo.png
