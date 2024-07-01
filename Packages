@@ -1,12 +1,12 @@
 Package: com.gojek.offsec
-Version: 0.0.1-11
+Version: 0.0.1-12
 Section: Tweaks
 Maintainer: hackerman <bot.crystalmaiden@gmail.com>
 Depends: mobilesubstrate
-Architecture: iphoneos-arm64
-Filename: debs/com.gojek.offsec_0.0.1-11_iphoneos-arm64.deb
-Size: 3114
-MD5sum: 72e891738013ca82f261c7fc95e30c55
+Architecture: iphoneos-arm
+Filename: debs/com.gojek.offsec_0.0.1-12_iphoneos-arm.deb
+Size: 3110
+MD5sum: 7fd8e9db20874323e09103b12c6247ff
 Description: Nothing...
 Name: Offsec
 Author: hackerman
@@ -16,7 +16,7 @@ Version: 0.0.2-6+debug
 Section: Tweaks
 Maintainer: hackerman <bot.crystalmaiden@gmail.com>
 Depends: mobilesubstrate
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Filename: debs/com.if-she.cydia.vcam_0.0.2-6+debug_iphoneos-arm.deb
 Size: 28254
 MD5sum: af38411961d5907c4d4aa30adddaca42
